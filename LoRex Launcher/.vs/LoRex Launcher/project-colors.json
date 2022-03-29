@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "adde0fec-9ae5-4ada-8b68-4ca80c643cdb": {
+      "ProjectGuid": "adde0fec-9ae5-4ada-8b68-4ca80c643cdb",
+      "DisplayName": "LoRex Launcher",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

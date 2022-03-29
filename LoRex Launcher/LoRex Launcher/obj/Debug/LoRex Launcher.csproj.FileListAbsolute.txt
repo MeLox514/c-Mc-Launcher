@@ -1,0 +1,33 @@
+C:\Users\EXCALIBUR\Desktop\LoRex Launcher\LoRex Launcher\bin\Debug\LoRex Launcher.exe.config
+C:\Users\EXCALIBUR\Desktop\LoRex Launcher\LoRex Launcher\bin\Debug\LoRex Launcher.exe
+C:\Users\EXCALIBUR\Desktop\LoRex Launcher\LoRex Launcher\bin\Debug\LoRex Launcher.pdb
+C:\Users\EXCALIBUR\Desktop\LoRex Launcher\LoRex Launcher\obj\Debug\LoRex Launcher.csproj.AssemblyReference.cache
+C:\Users\EXCALIBUR\Desktop\LoRex Launcher\LoRex Launcher\obj\Debug\LoRex Launcher.csproj.SuggestedBindingRedirects.cache
+C:\Users\EXCALIBUR\Desktop\LoRex Launcher\LoRex Launcher\obj\Debug\LoRex_Launcher.Form1.resources
+C:\Users\EXCALIBUR\Desktop\LoRex Launcher\LoRex Launcher\obj\Debug\LoRex_Launcher.Properties.Resources.resources
+C:\Users\EXCALIBUR\Desktop\LoRex Launcher\LoRex Launcher\obj\Debug\LoRex Launcher.csproj.GenerateResource.cache
+C:\Users\EXCALIBUR\Desktop\LoRex Launcher\LoRex Launcher\obj\Debug\LoRex Launcher.csproj.CoreCompileInputs.cache
+C:\Users\EXCALIBUR\Desktop\LoRex Launcher\LoRex Launcher\obj\Debug\LoRex Launcher.exe
+C:\Users\EXCALIBUR\Desktop\LoRex Launcher\LoRex Launcher\obj\Debug\LoRex Launcher.pdb
+C:\Users\EXCALIBUR\Desktop\LoRex Launcher\LoRex Launcher\bin\Debug\Guna.UI2.dll
+C:\Users\EXCALIBUR\Desktop\LoRex Launcher\LoRex Launcher\obj\Debug\LoRex Launcher.csproj.CopyComplete
+C:\Users\EXCALIBUR\Desktop\LoRex Launcher\LoRex Launcher\obj\Debug\LoRex_Launcher.LoginScreen.resources
+C:\Users\EXCALIBUR\Desktop\LoRex Launcher\LoRex Launcher\obj\Debug\LoRex_Launcher.MainPage.resources
+C:\Users\EXCALIBUR\Desktop\LoRex Launcher\LoRex Launcher\bin\Debug\CmlLib.dll
+C:\Users\EXCALIBUR\Desktop\LoRex Launcher\LoRex Launcher\bin\Debug\DotNetZip.dll
+C:\Users\EXCALIBUR\Desktop\LoRex Launcher\LoRex Launcher\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\EXCALIBUR\Desktop\LoRex Launcher\LoRex Launcher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\EXCALIBUR\Desktop\LoRex Launcher\LoRex Launcher\bin\Debug\SevenZip.dll
+C:\Users\EXCALIBUR\Desktop\LoRex Launcher\LoRex Launcher\bin\Debug\DotNetZip.pdb
+C:\Users\EXCALIBUR\Desktop\LoRex Launcher\LoRex Launcher\bin\Debug\DotNetZip.xml
+C:\Users\EXCALIBUR\Desktop\LoRex Launcher\LoRex Launcher\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\EXCALIBUR\Desktop\LoRex Launcher\LoRex Launcher\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\EXCALIBUR\Desktop\LoRex Launcher\LoRex Launcher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\EXCALIBUR\Desktop\LoRex Launcher\LoRex Launcher\bin\Debug\SevenZip.xml
+C:\Users\EXCALIBUR\Desktop\LoRex Launcher\LoRex Launcher\bin\Debug\MCServerStatus.dll
+C:\Users\EXCALIBUR\Desktop\LoRex Launcher\LoRex Launcher\obj\Debug\LoRex_Launcher.Ayarlark.resources
+C:\Users\EXCALIBUR\Desktop\LoRex Launcher\LoRex Launcher\obj\Debug\LoRex_Launcher.anasayfa.resources
+C:\Users\EXCALIBUR\Desktop\LoRex Launcher\LoRex Launcher\obj\Debug\LoRex_Launcher.ayarlar.resources
+C:\Users\EXCALIBUR\Desktop\LoRex Launcher\LoRex Launcher\obj\Debug\LoRex_Launcher.reklam.resources
+C:\Users\EXCALIBUR\Desktop\LoRex Launcher\LoRex Launcher\obj\Debug\LoRex_Launcher.magaza.resources
+C:\Users\EXCALIBUR\Desktop\LoRex Launcher\LoRex Launcher\obj\Debug\LoRex_Launcher.profil.resources
